@@ -2,6 +2,10 @@ My first file
 My second line is here
 Third line
 
+<<<<<<< HEAD
 Jetzt machemo do eifach irgendÃ¶bis andrst ihne 
 
 Second conflict(mimimimi)
+=======
+hööööööööööööööööööööööööööööööööööööööööööööööööööööööööööö
+>>>>>>> test
