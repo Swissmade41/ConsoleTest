@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 jetzt hanni alles glöscht
 und jetzt luegi dasmes rückgängig mache chan
 NAAAAAAAAAAAAA
+=======
+My first file
+My second line is here
+
+jetzt aber ohni konflikt
+>>>>>>> 165382d... 1
