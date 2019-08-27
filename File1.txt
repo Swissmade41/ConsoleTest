@@ -1,3 +1,4 @@
 My first file
 My second line is here
-Third line
+
+jetzt aber ohni konflikt
