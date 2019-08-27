@@ -1,7 +1,8 @@
 My first file
 My second line is here
 
-jetzt aber ohni konflikt
-
+so jetzt aber das mues bliebe
 
 Dev branch
+
+Das mues au bliebe
